@@ -14,13 +14,78 @@
 
 - I am looking for company with **full of go-head spirit**.
 
-- How to reach me **fantasy-guru@gmail.com**
+- How to reach me **fantasy-python-guru@gmail.com**
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="php" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="php" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="php" />
+      <br>Go
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="php" />
+      <br>Tensorflow
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="php" />
+      <br>PyTorch
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="php" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="php" />
+      <br>SQLite3
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="php" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="php" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="php" />
+      <br>Redis
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="php" />
+      <br>VSCode
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="php" />
+      <br>OpenCV
+    </td>
   </tr>  
 </table>
 </div>
